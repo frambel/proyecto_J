@@ -1,0 +1,44 @@
+Proyecto de programador Python segundo semestre 2019
+
+Tenemos como cliente una tienda de discos.
+
+En dicha tienda estará registradas las disqueras, los
+artistas y los discos. Un artista puede tener muchos discos, y un disco puede tener más de un
+artista. Los discos sólo pueden tener una disquera.
+
+Nuestro sitio debe de tener un modelo que represente esta realidad. El aspecto del sitio también es
+importante.
+
+Tendrá que tener una vista de búsqueda, otra de contacto, y la posibilidad de registrarse en el sitio.
+
+La base de datos se puede desarrollar en sqlite3 nativo en Django o en MySQL, el alumno deberá
+además hacer algunas vistas ya sea sobre la base de datos, o vistas para los contactos con el sitio. Se
+está abierto a vistas que el alumno entienda convenientes y no sean ninguna de las anteriores.
+
+El proyecto se desarrollará en Python utilizando Django, y se podrá utilizar todas tipos de
+herramientas como CSS, javascript, contenidos estáticos como imágenes, etc. Estos estarán
+definidos en settings.py.
+
+El tiempo de entrega será hasta el 1º de marzo inclusive. En ese día serán enviados los proyectos
+zipeados (no rar) vía correo electrónico a jmendez@bios.edu.uy o entregados en el drive en la
+carpeta “Proyectos”. Los mismos deberán ser claramente identificados con el nombre de los
+alumnos y su CI.
+
+La calificación de dicho proyecto será hecha de esta forma:
+1. Se evaluará el modelo
+2. Las vistas
+3. El aspecto
+
+Cada ítem tendrá un máximo de 100 puntos y la suma de los 3 debe ser un 70% del total. En caso de
+no cumplir este requisito se puede realizar el proyecto del siguiente grupo que curse.
+
+La entrega de las notas será hasta un mes después de la fecha de entrega del proyecto, 1º de abril.
+
+Los alumnos que no entreguen el proyecto tienen exactamente la misma chance anteriormente
+descrita en los siguientes grupos.
+
+Viernes 31 de enero de 2020 estaré en BIOS por cualquier consulta desde la 19:00.
+
+Viernes 7 de febrero 2020 estaré en BIOS por cualquier consulta desde la 19:00.
+
+Estoy en cualquier momento vía mail.

@@ -1,0 +1,25 @@
+startproject y startapp son las opciones a realizar primero.
+
+El debug tiene que estar en false solo cuando quieras visualizar los errores que te genera el sitio 404 o 500, para ello el servidor se tiene que correo en modo inseguro
+	python manage.py runserver --insecure
+De lo contrario, tiene que estar en True para visualizar los errores en el sitio, la terminal siempre te va a mostrar el error, pero ayuda que el sitio también lo muestre.
+
+Los views se cargan cuando se cree el app para el proyecto, no trabajar al reves como hicimos en clases que creamos el views primero, por trabajar.
+
+
+De trabajar en windows se tiene que descargar MYSQL y crear el usuario para poder trabajar con él.
+
+Algunos atajos de sublime pueden ser
+control + shift + p para instalar paquetes, los recomendados de packet control: install package
+bracket highlighter
+sidebar enhancements
+terminal
+
+ubicar las clases de creacion de modelos, al igual que el capitulo de modelos del libro de django, es exactamente igual a lo que creo el profesor.
+poder actualizar el settings para que quede funcional! 
+
+IMPORTANTE!!!!
+PODER HACER CORRER EL ADMIN!!!!!!
+TENER EL SUPERUSUARIO, LOS MODELOS YA LISTOS, EMPEZAR A METER DATOS!
+DESPUES DE AHI ES SOLO COMPLETAR Y HACER CONSULTAS!!!!
+
