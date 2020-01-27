@@ -9,7 +9,7 @@ Los views se cargan cuando se cree el app para el proyecto, no trabajar al reves
 
 De trabajar en windows se tiene que descargar MYSQL y crear el usuario para poder trabajar con él.
 
-Algunos atajos de sublime pueden ser
+Algunos atajos de sublime pueden ser, por ejemplo
 control + shift + p para instalar paquetes, los recomendados de packet control: install package
 bracket highlighter
 sidebar enhancements
